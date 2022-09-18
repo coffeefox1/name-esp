@@ -1,0 +1,9 @@
+s = Instance.new("Sky")
+	s.Name = "SKY"
+	s.SkyboxBk = "http://www.roblox.com/Asset/?ID=401664839"
+	s.SkyboxDn = "http://www.roblox.com/Asset/?ID=401664862"
+	s.SkyboxFt = "http://www.roblox.com/Asset/?ID=401664960"
+	s.SkyboxLf = "http://www.roblox.com/Asset/?ID=401664881"
+	s.SkyboxRt = "http://www.roblox.com/Asset/?ID=401664901"
+	s.SkyboxUp = "http://www.roblox.com/Asset/?ID=401664936"
+	s.Parent = game.Lighting 
